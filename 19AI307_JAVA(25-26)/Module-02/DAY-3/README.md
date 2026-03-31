@@ -30,8 +30,8 @@ Display the radius, area, and perimeter using getter and calculation methods.
  ```
 /*
 Program to implement a Access Specifiers using Java
-Developed by: BHARANIDHRAN R
-RegisterNumber: 212224110012
+Developed by: HARIPRASHAAD RA
+RegisterNumber: 212223040060
 */
 ```
 
