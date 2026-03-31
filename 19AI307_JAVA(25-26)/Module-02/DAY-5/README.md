@@ -28,8 +28,8 @@ To write a Java program to create a class Calculator with a non-static add metho
  ```
 /*
 Program to implement a Access Modifiers using Java
-Developed by: ENBANATHAN V
-RegisterNumber: 212224220027  
+Developed by: HARIPRASHAAD RA
+RegisterNumber: 212223040060
 */
 ```
 
