@@ -27,8 +27,8 @@ Print the object (which calls the overridden toString() method).
  ```
 /*
 Program to implement a Variable scope and Constructor using Java
-Developed by: BHARANIDHARAN R
-RegisterNumber:  212224110012
+Developed by: HARIPRASHAAD RA
+RegisterNumber: 212223040060
 */
 ```
 
