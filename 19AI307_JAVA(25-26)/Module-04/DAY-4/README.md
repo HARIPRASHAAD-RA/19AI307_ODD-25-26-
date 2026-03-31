@@ -37,8 +37,8 @@ Call paint() on both objects to display their type.
  ```
 /*
 Program to implement a Abstract Factory Pattern using Java
-Developed by: BHARANIDHARAN R
-RegisterNumber: 212224110012
+Developed by: HARIPRASHAAD RA
+RegisterNumber: 212223040060
 */
 ```
 

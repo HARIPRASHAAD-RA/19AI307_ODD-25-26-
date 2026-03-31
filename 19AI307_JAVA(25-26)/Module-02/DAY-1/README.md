@@ -23,8 +23,8 @@ To write a Java program to create a class Car with attributes brand, model, and 
  ```
 /*
 Program to implement a Class and Objects using Java
-Developed by: BHARANIDHARAN R
-RegisterNumber: 212224110012
+Developed by: HARIPRASHAAD RA
+RegisterNumber: 212223040060
 */
 ```
 

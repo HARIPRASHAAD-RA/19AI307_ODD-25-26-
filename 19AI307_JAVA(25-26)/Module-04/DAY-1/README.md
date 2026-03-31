@@ -26,8 +26,8 @@ Print an error message "Error: Division by zero".
  ```
 /*
 Program to implement a Exception Handling using Java
-Developed by: BHARANIDHARAN R
-RegisterNumber: 212224110012
+Developed by: HARIPRASHAAD RA
+RegisterNumber: 212223040060
 
 */
 ```

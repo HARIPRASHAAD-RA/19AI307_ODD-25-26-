@@ -33,8 +33,8 @@ Submit the job and display the total jobs in the queue.
  ```
 /*
 Program to implement a SOLID Principles in Java Program
-Developed by: BHARANIDHARAN R
-RegisterNumber: 212224110012
+Developed by: HARIPRASHAAD RA
+RegisterNumber: 212223040060
 */
 ```
 

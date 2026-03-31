@@ -28,8 +28,8 @@ Call the displayInfo() method.
  ```
 /*
 Program to implement a Inheritance and Aggregation using Java
-Developed by: BHARANIDHARAN R
-RegisterNumber: 212224110012 
+Developed by: HARIPRASHAAD RA
+RegisterNumber: 212223040060 
 */
 ```
 

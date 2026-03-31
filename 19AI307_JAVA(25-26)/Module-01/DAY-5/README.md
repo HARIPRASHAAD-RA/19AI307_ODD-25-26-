@@ -22,8 +22,8 @@ To write a Java program to find the absolute value of a number using Math.abs().
  ```
 /*
 Program to implement a Strings and Math Function using Java
-Developed by: BHARANIDHARAN R
-RegisterNumber: 212224110012
+Developed by: HARIPRASHAAD RA
+RegisterNumber: 212223040060
 */
 ```
 

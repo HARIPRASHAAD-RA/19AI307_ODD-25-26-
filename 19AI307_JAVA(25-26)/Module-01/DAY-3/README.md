@@ -32,8 +32,8 @@ To write a Java program to calculate the factorial of a non-negative integer usi
  ```
 /*
 Program to implement a Looping Statement using Java
-Developed by: BHARANIDHARAN R
-RegisterNumber: 212224110012
+Developed by: HARIPRASHAAD RA
+RegisterNumber: 212223040060
 */
 ```
 

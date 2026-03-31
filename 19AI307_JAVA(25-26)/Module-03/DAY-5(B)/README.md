@@ -30,8 +30,8 @@ Else → print “Not an Armstrong number”.
  ```
 /*
 Program to implement a Wrapper Class using Java
-Developed by: BHARANIDHARAN R
-RegisterNumber: 212224110012
+Developed by: HARIPRASHAAD RA
+RegisterNumber: 212223040060
 
 */
 ```

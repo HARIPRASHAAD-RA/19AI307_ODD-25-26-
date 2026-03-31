@@ -31,8 +31,8 @@ To write a Java program to check whether the entered code is valid for a pirate 
  ```
 /*
 Program to implement a conditional statement using Java
-Developed by: BHARANIDHARAN R
-RegisterNumber: 212224110012
+Developed by: HARIPRASHAAD RA
+RegisterNumber: 212223040060
 */
 ```
 

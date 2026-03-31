@@ -28,8 +28,8 @@ To write a Java program with one static method and one non-static method, and ca
  ```
 /*
 Program to implement a Methods using Java
-Developed by: BHARANIDHARAN R
-RegisterNumber: 212224110012
+Developed by: HARIPRASHAAD RA
+RegisterNumber: 212223040060
 */
 ```
 

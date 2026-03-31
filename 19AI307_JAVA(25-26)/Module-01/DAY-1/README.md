@@ -29,8 +29,8 @@ To write a Java program that takes a string as input from the user and displays 
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: BHARANIDHARAN R
-RegisterNumber: 212224110012
+Developed by: HARIPRASHAAD RA
+RegisterNumber: 212223040060
 */
 ```
 
